@@ -1,4 +1,3 @@
-# kodibonabrian
 <h1 align="center">Thobela! I'm Brian Kodibona</h1>
 
 <h3 align="center">
